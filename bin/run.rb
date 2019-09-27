@@ -1,7 +1,7 @@
 require_relative '../config/environment'
 
-Hashie
-Sinatra
-Octokit
-Pry
-AwesomePrint
+gem "Hashie"
+gem Sinatra
+gem Octokit
+gem Pry
+gem AwesomePrint
