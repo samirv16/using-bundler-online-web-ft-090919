@@ -1,6 +1,6 @@
 require_relative '../config/environment'
 
-gem "Hashie"
+run "Hashie"
 gem Sinatra
 gem Octokit
 gem Pry
